@@ -1,0 +1,19 @@
+#floated{
+    border: solid 8px black;
+    width: 400px;
+    float:left;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+#round{
+    border: solid 8px black;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    width: 400px;
+    float:left;
+    text-align: center;
+    padding-bottom: 8px;
+}
